@@ -1,0 +1,9 @@
+C:\Users\wladimir.souza\source\repos\GLPI\publish\Application.dll
+C:\Users\wladimir.souza\source\repos\GLPI\publish\Application.deps.json
+C:\Users\wladimir.souza\source\repos\GLPI\publish\Application.pdb
+C:\Users\wladimir.souza\source\repos\GLPI\publish\Newtonsoft.Json.dll
+C:\Users\wladimir.souza\source\repos\GLPI\publish\Scalar.AspNetCore.dll
+C:\Users\wladimir.souza\source\repos\GLPI\publish\Domain.dll
+C:\Users\wladimir.souza\source\repos\GLPI\publish\Infrastructure.dll
+C:\Users\wladimir.souza\source\repos\GLPI\publish\Domain.pdb
+C:\Users\wladimir.souza\source\repos\GLPI\publish\Infrastructure.pdb

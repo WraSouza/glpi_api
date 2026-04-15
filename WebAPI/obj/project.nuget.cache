@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "dgSpecHash": "fqhXo+1Fh34=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wladimir.souza\\source\\repos\\GLPI\\WebAPI\\WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wladimir.souza\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\wladimir.souza\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.1\\microsoft.extensions.caching.memory.10.0.1.nupkg.sha512",
+    "C:\\Users\\wladimir.souza\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.1\\microsoft.extensions.configuration.10.0.1.nupkg.sha512",
+    "C:\\Users\\wladimir.souza\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\wladimir.souza\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\wladimir.souza\\.nuget\\packages\\scalar.aspnetcore\\2.11.10\\scalar.aspnetcore.2.11.10.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Caching.Memory não será podado. Considere remover este pacote das dependências, pois\u00A0ele provavelmente é desnecessário.",
+      "projectPath": "C:\\Users\\wladimir.souza\\source\\repos\\GLPI\\WebAPI\\WebAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\wladimir.souza\\source\\repos\\GLPI\\WebAPI\\WebAPI.csproj",
+      "libraryId": "Microsoft.Extensions.Caching.Memory",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Configuration não será podado. Considere remover este pacote das dependências, pois\u00A0ele provavelmente é desnecessário.",
+      "projectPath": "C:\\Users\\wladimir.souza\\source\\repos\\GLPI\\WebAPI\\WebAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\wladimir.souza\\source\\repos\\GLPI\\WebAPI\\WebAPI.csproj",
+      "libraryId": "Microsoft.Extensions.Configuration",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

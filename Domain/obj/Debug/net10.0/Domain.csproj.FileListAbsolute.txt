@@ -1,0 +1,12 @@
+C:\Users\wladimir.souza\source\repos\GLPI\Domain\bin\Debug\net10.0\Domain.deps.json
+C:\Users\wladimir.souza\source\repos\GLPI\Domain\bin\Debug\net10.0\Domain.dll
+C:\Users\wladimir.souza\source\repos\GLPI\Domain\bin\Debug\net10.0\Domain.pdb
+C:\Users\wladimir.souza\source\repos\GLPI\Domain\obj\Debug\net10.0\Domain.csproj.AssemblyReference.cache
+C:\Users\wladimir.souza\source\repos\GLPI\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wladimir.souza\source\repos\GLPI\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+C:\Users\wladimir.souza\source\repos\GLPI\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+C:\Users\wladimir.souza\source\repos\GLPI\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\wladimir.souza\source\repos\GLPI\Domain\obj\Debug\net10.0\Domain.dll
+C:\Users\wladimir.souza\source\repos\GLPI\Domain\obj\Debug\net10.0\refint\Domain.dll
+C:\Users\wladimir.souza\source\repos\GLPI\Domain\obj\Debug\net10.0\Domain.pdb
+C:\Users\wladimir.souza\source\repos\GLPI\Domain\obj\Debug\net10.0\ref\Domain.dll
