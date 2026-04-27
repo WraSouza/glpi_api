@@ -13,3 +13,4 @@ C:\Users\wladimir.souza\source\repos\GLPI\Infrastructure\obj\Debug\net10.0\Infra
 C:\Users\wladimir.souza\source\repos\GLPI\Infrastructure\obj\Debug\net10.0\refint\Infrastructure.dll
 C:\Users\wladimir.souza\source\repos\GLPI\Infrastructure\obj\Debug\net10.0\Infrastructure.pdb
 C:\Users\wladimir.souza\source\repos\GLPI\Infrastructure\obj\Debug\net10.0\ref\Infrastructure.dll
+c:\Users\wladimir.souza\source\repos\GLPI\Infrastructure\obj\Debug\net10.0\Infrastructure.sourcelink.json

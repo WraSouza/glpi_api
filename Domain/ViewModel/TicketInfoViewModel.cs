@@ -26,5 +26,8 @@ namespace Domain.ViewModel
 
         [JsonProperty("12")]
         public int _12 { get; set; }
+
+        [JsonProperty("15")]
+        public string _15 { get; set; }
     }
 }

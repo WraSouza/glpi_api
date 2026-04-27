@@ -15,3 +15,4 @@ C:\Users\wladimir.souza\source\repos\GLPI\Application\obj\Debug\net10.0\Applicat
 C:\Users\wladimir.souza\source\repos\GLPI\Application\obj\Debug\net10.0\refint\Application.dll
 C:\Users\wladimir.souza\source\repos\GLPI\Application\obj\Debug\net10.0\Application.pdb
 C:\Users\wladimir.souza\source\repos\GLPI\Application\obj\Debug\net10.0\ref\Application.dll
+c:\Users\wladimir.souza\source\repos\GLPI\Application\obj\Debug\net10.0\Application.sourcelink.json
